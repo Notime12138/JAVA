@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"WitchHunt.Module"},{"l":"WitchHunt.Module.Cards.IdentityCards"},{"l":"WitchHunt.Module.Cards.RumorCards"},{"l":"WitchHunt.Module.Players"},{"l":"WitchHunt.Vue"}];updateSearchResults();
